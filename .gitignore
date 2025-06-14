@@ -1,0 +1,7 @@
+# Environment Variables - Only specific files
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
